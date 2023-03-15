@@ -1,0 +1,18 @@
+.emojiContainer{
+    height: 150px;
+    background-color: darkslategray;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.emojiSelectorContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.emojiSelector{
+    width: 100px;
+}
