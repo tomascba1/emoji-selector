@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/emoji-selector/static/css/main.98463ab4.css",
-    "main.js": "/emoji-selector/static/js/main.fbe0aec4.js",
+    "main.css": "/emoji-selector/static/css/main.ddbc1fa1.css",
+    "main.js": "/emoji-selector/static/js/main.2de27450.js",
     "index.html": "/emoji-selector/index.html",
-    "main.98463ab4.css.map": "/emoji-selector/static/css/main.98463ab4.css.map",
-    "main.fbe0aec4.js.map": "/emoji-selector/static/js/main.fbe0aec4.js.map"
+    "main.ddbc1fa1.css.map": "/emoji-selector/static/css/main.ddbc1fa1.css.map",
+    "main.2de27450.js.map": "/emoji-selector/static/js/main.2de27450.js.map"
   },
   "entrypoints": [
-    "static/css/main.98463ab4.css",
-    "static/js/main.fbe0aec4.js"
+    "static/css/main.ddbc1fa1.css",
+    "static/js/main.2de27450.js"
   ]
 }
